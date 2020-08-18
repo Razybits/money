@@ -34,25 +34,25 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Intuitive and easy to use interface
-    description                           : Contrasts lets you create and manage color pairs of text and background colors for your design projects.
-    fontawesome_icon_name                 : swatchbook
-    
-  - title                                 : Adding expenses is extremely fast, no burden
-    description                           : By calculating the contrast ratio and the resulting WCAG 2.1 conformance level, it is possible to determine whether a text color is readable for people with visual impairments or not.
-    fontawesome_icon_name                 : universal-access
+  - title                                 : Expenses
+    description                           : Intuitive and easy to use interface. Adding expenses is extremely fast, no burden.
+    fontawesome_icon_name                 : ad
 
-  - title                                 : Mark your expenses using tags
-    description                           : Color pairs can be shared with your colleagues as text and images, along with all detail information (color and alpha values, contrast ratio, and WCAG conformance).
-    fontawesome_icon_name                 : share-square
+  - title                                 : Tags
+    description                           : Mark your expenses using tags.
+    fontawesome_icon_name                 : thumbtack
+
+  - title                                 : Search
+    description                           : Search for expenses effectively.
+    fontawesome_icon_name                 : search
+
+  - title                                 : Privacy
+    description                           : We highly value privacy and we do not intend to store your data on any server, which is why we decided to use iCloud to store your data safely.
+    fontawesome_icon_name                 : user-secret
 
   - title                                 : iCloud sync
     description                           : Sync your color pairs across your Apple devices by using iCloud.
     fontawesome_icon_name                 : cloud-upload-alt
-
-  - title                                 : Search you timeline effectively
-    description                           : Creating a color pair can be done by using RGB, HSB or HEX values.
-    fontawesome_icon_name                 : palette
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
