@@ -19,9 +19,9 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Whitesmith, Lda
+your_name                                 : Whitesmith
 your_link                                 :
-your_city                                 : Lisbon                                
+your_city                                 : Portugal
 email_address                             : moneysupport@pm.me
 facebook_username                         :
 instagram_username                        :
@@ -34,15 +34,15 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Colors for your design projects
+  - title                                 : Intuitive and easy to use interface
     description                           : Contrasts lets you create and manage color pairs of text and background colors for your design projects.
     fontawesome_icon_name                 : swatchbook
     
-  - title                                 : WCAG 2.1 conformance
+  - title                                 : Adding expenses is extremely fast, no burden
     description                           : By calculating the contrast ratio and the resulting WCAG 2.1 conformance level, it is possible to determine whether a text color is readable for people with visual impairments or not.
     fontawesome_icon_name                 : universal-access
 
-  - title                                 : Share colors with your team
+  - title                                 : Mark your expenses using tags
     description                           : Color pairs can be shared with your colleagues as text and images, along with all detail information (color and alpha values, contrast ratio, and WCAG conformance).
     fontawesome_icon_name                 : share-square
 
@@ -50,13 +50,9 @@ features                                  :
     description                           : Sync your color pairs across your Apple devices by using iCloud.
     fontawesome_icon_name                 : cloud-upload-alt
 
-  - title                                 : RGB, HSB, and HEX
+  - title                                 : Search you timeline effectively
     description                           : Creating a color pair can be done by using RGB, HSB or HEX values.
     fontawesome_icon_name                 : palette
-
-  - title                                 : Alpha support
-    description                           : The WCAG calculation of these values is also supported for semi-transparent text colors.
-    fontawesome_icon_name                 : adjust
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -69,7 +65,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
