@@ -56,7 +56,7 @@ features                                  :
 
   - title                                 : Statistics & Widget
     description                           : View insights of your financial data. Plus, track and compare your transactions by month or by week.
-    fontawesome_icon_name                 : bar-chart
+    fontawesome_icon_name                 : chart-bar
 
 
 
