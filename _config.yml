@@ -1,5 +1,5 @@
 #page title
-page_title                                : Money - expense tracker # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Money - income & expense tracker # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1076339783                              # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Money                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : $0.99                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Money is a basic expense tracker, focused on simplicity. Our mission is to help people be financially healthy.
+app_description                           : Money is a basic income & expense tracker, focused on simplicity. Our mission is to help people be financially healthy.
 
 enable_smart_app_banner                   : true                                    # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,16 +34,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Expenses
-    description                           : Intuitive and easy to use interface. Adding expenses is extremely fast, no burden.
+  - title                                 : Income & Expenses
+    description                           : Intuitive and easy to use interface. Adding transactions is extremely fast, no burden.
     fontawesome_icon_name                 : ad
 
   - title                                 : Tags
-    description                           : Mark your expenses using tags.
+    description                           : Besides categories, you can organize your transactions better by tagging them with, i.e., #Holidays2019. The Search will find tags and present the assigned transactions.
     fontawesome_icon_name                 : thumbtack
 
   - title                                 : Search
-    description                           : Search for expenses effectively.
+    description                           : A powerful search to find transactions effectively.
     fontawesome_icon_name                 : search
 
   - title                                 : Privacy
@@ -51,12 +51,12 @@ features                                  :
     fontawesome_icon_name                 : user-secret
 
   - title                                 : iCloud sync
-    description                           : Sync your color pairs across your Apple devices by using iCloud.
+    description                           : Your data will be automatically synchronized with all your devices.
     fontawesome_icon_name                 : cloud-upload-alt
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Statistics & Widget
+    description                           : View insights of your financial data. Plus, track and compare your transactions by month or by week.
+    fontawesome_icon_name                 : bar-chart
 
 
 
