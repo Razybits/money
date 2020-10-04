@@ -1,0 +1,2959 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Components/GrandHeaderCollection/GrandHeaderCollectionViewLayout.swift",
+      "line": 11,
+      "symbol": "GrandHeaderCollectionViewLayout",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Components/PopDatePicker/PopDatePicker.swift",
+      "line": 11,
+      "symbol": "PopDatePicker",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Components/PopDatePicker/PopDateViewController.swift",
+      "line": 11,
+      "symbol": "DataPickerViewControllerDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Components/PopDatePicker/PopDateViewController.swift",
+      "line": 16,
+      "symbol": "PopDateViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/AppCoordinator.swift",
+      "line": 19,
+      "symbol": "ApplicationShortcut",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/AppCoordinator.swift",
+      "line": 24,
+      "symbol": "AppCoordinator",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/AppCoordinator.swift",
+      "line": 289,
+      "symbol": "AppCoordinator",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/AppCoordinator.swift",
+      "line": 309,
+      "symbol": "UINavigationController.prepareForQuickAction(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/AppCriticalLogger.swift",
+      "line": 11,
+      "symbol": "AppCriticalLogger",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/AppDelegate.swift",
+      "line": 12,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/AppLogger.swift",
+      "line": 12,
+      "symbol": "Loggable",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/AppLogger.swift",
+      "line": 13,
+      "symbol": "LoggerOptions",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/AppLogger.swift",
+      "line": 14,
+      "symbol": "LogLevel",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/AppLogger.swift",
+      "line": 16,
+      "symbol": "AppLogger",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/AppLogger.swift",
+      "line": 38,
+      "symbol": "logEntry(_:level:customAttributes:className:fileName:line:function:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/AppLogger.swift",
+      "line": 59,
+      "symbol": "logEntry(_:message:level:className:fileName:line:function:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/AppLogger.swift",
+      "line": 63,
+      "symbol": "logEntryIf(_:message:level:className:fileName:line:function:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/AppLogger.swift",
+      "line": 70,
+      "symbol": "logError(_:className:fileName:line:function:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/AppVersionStatus.swift",
+      "line": 11,
+      "symbol": "AppVersionStatus",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Categories/CategoriesViewController.swift",
+      "line": 12,
+      "symbol": "CategoriesViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Categories/CategoriesViewController.swift",
+      "line": 116,
+      "symbol": "CategoriesViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Categories/CategoriesViewController.swift",
+      "line": 178,
+      "symbol": "CategoriesViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Categories/CategoryViewController.swift",
+      "line": 12,
+      "symbol": "CategoryViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Categories/CategoryViewController.swift",
+      "line": 297,
+      "symbol": "ColorsTableViewCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Categories/CategoryViewController.swift",
+      "line": 383,
+      "symbol": "ColorsCollectionViewDataSource",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Categories/CategoryViewController.swift",
+      "line": 422,
+      "symbol": "ReuseIdentifiable",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Categories/CategoryViewController.swift",
+      "line": 444,
+      "symbol": "ColorCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Categories/CategoryViewController.swift",
+      "line": 480,
+      "symbol": "IconCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Categories/CategoryViewController.swift",
+      "line": 524,
+      "symbol": "FieldTableViewCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Categories/CategoryViewController.swift",
+      "line": 636,
+      "symbol": "IconsTableViewCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Cells/BasicCell.swift",
+      "line": 12,
+      "symbol": "ArticleCell",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Cells/BasicCell.swift",
+      "line": 13,
+      "symbol": "TagCell",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Cells/BasicCell.swift",
+      "line": 15,
+      "symbol": "BasicCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Cells/ExpenseCell.swift",
+      "line": 12,
+      "symbol": "ExpenseCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Constants.swift",
+      "line": 11,
+      "symbol": "Constants",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/CKArticle.swift",
+      "line": 11,
+      "symbol": "CKArticle",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/CKArticle.swift",
+      "line": 42,
+      "symbol": "Sequence.sortedByName()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/CKArticle.swift",
+      "line": 47,
+      "symbol": "Sequence.sortedByCreatedAt()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/CKCategory.swift",
+      "line": 11,
+      "symbol": "CategoryOperation",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/CKCategory.swift",
+      "line": 11,
+      "symbol": "CategoryStatus",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/CKCategory.swift",
+      "line": 16,
+      "symbol": "CategoryOperation",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/CKCategory.swift",
+      "line": 25,
+      "symbol": "CKCategory",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/CKCategory.swift",
+      "line": 66,
+      "symbol": "CKCategory",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/CKTag.swift",
+      "line": 11,
+      "symbol": "CKTag",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/CKTag.swift",
+      "line": 41,
+      "symbol": "Sequence.sortedByName()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/CKTag.swift",
+      "line": 48,
+      "symbol": "CKTag",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/CKTransaction.swift",
+      "line": 11,
+      "symbol": "CKTransaction",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/CKTransaction.swift",
+      "line": 55,
+      "symbol": "CKTransaction",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/CKTransaction.swift",
+      "line": 71,
+      "symbol": "Array.totalAmount()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/Database.swift",
+      "line": 11,
+      "symbol": "DatabaseError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/Database.swift",
+      "line": 16,
+      "symbol": "Database",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseObserverToken.swift",
+      "line": 11,
+      "symbol": "DatabaseObserverToken",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 14,
+      "symbol": "DatabaseQuery.entity",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 16,
+      "symbol": "DatabaseQuery.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 20,
+      "symbol": "DatabaseQuery.observe(handler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 24,
+      "symbol": "DatabaseQuery.get()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 28,
+      "symbol": "DatabaseQuery.getGroupedBy(by:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 32,
+      "symbol": "DatabaseQuery.getGroupedBy(by:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 37,
+      "symbol": "DatabaseQuery.sum(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 42,
+      "symbol": "DatabaseQuery.avg(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 47,
+      "symbol": "DatabaseQuery.min(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 52,
+      "symbol": "DatabaseQuery.max(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 56,
+      "symbol": "DatabaseQuery.paginate(page:size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 60,
+      "symbol": "DatabaseQuery.count()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 64,
+      "symbol": "DatabaseQuery.isEmpty()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 68,
+      "symbol": "DatabaseQuery.delete()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 71,
+      "symbol": "DatabaseQuery.group(_:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 76,
+      "symbol": "DatabaseQuery.lessThan(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 81,
+      "symbol": "DatabaseQuery.lessThan(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 86,
+      "symbol": "DatabaseQuery.lessThanOrEqualTo(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 91,
+      "symbol": "DatabaseQuery.lessThanOrEqualTo(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 96,
+      "symbol": "DatabaseQuery.greaterThan(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 101,
+      "symbol": "DatabaseQuery.greaterThan(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 106,
+      "symbol": "DatabaseQuery.greaterThanOrEqualTo(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 111,
+      "symbol": "DatabaseQuery.greaterThanOrEqualTo(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 116,
+      "symbol": "DatabaseQuery.between(_:left:right:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 121,
+      "symbol": "DatabaseQuery.between(_:left:right:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 126,
+      "symbol": "DatabaseQuery.between(_:from:to:inclusive:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 131,
+      "symbol": "DatabaseQuery.between(_:from:to:inclusive:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 136,
+      "symbol": "DatabaseQuery.equalTo(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 141,
+      "symbol": "DatabaseQuery.equalTo(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 146,
+      "symbol": "DatabaseQuery.notEqualTo(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 151,
+      "symbol": "DatabaseQuery.notEqualTo(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 156,
+      "symbol": "DatabaseQuery.matches(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 161,
+      "symbol": "DatabaseQuery.matches(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 166,
+      "symbol": "DatabaseQuery.like(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 171,
+      "symbol": "DatabaseQuery.like(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 176,
+      "symbol": "DatabaseQuery.beginsWith(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 181,
+      "symbol": "DatabaseQuery.beginsWith(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 186,
+      "symbol": "DatabaseQuery.endsWith(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 191,
+      "symbol": "DatabaseQuery.endsWith(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 196,
+      "symbol": "DatabaseQuery.contains(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 201,
+      "symbol": "DatabaseQuery.contains(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 206,
+      "symbol": "DatabaseQuery.in(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 211,
+      "symbol": "DatabaseQuery.in(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 216,
+      "symbol": "DatabaseQuery.sort(by:ascending:caseInsensitiveComparing:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 221,
+      "symbol": "DatabaseQuery.sort(by:ascending:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 226,
+      "symbol": "DatabaseQuery.limit(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQuery.swift",
+      "line": 231,
+      "symbol": "DatabaseQuery.distinct()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/DatabaseQueryObserverToken.swift",
+      "line": 11,
+      "symbol": "DatabaseQueryObserverToken",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/Model.swift",
+      "line": 11,
+      "symbol": "Model",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/Model.swift",
+      "line": 27,
+      "symbol": "ModelUniqueID",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/Model.swift",
+      "line": 29,
+      "symbol": "Model",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSComparisonPredicate+Extensions.swift",
+      "line": 13,
+      "symbol": "NSComparisonPredicate.init(attribute:greaterThan:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSComparisonPredicate+Extensions.swift",
+      "line": 17,
+      "symbol": "NSComparisonPredicate.init(attribute:greaterThanOrEqualTo:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSComparisonPredicate+Extensions.swift",
+      "line": 21,
+      "symbol": "NSComparisonPredicate.init(attribute:lessThan:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSComparisonPredicate+Extensions.swift",
+      "line": 25,
+      "symbol": "NSComparisonPredicate.init(attribute:lessThanOrEqualTo:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSComparisonPredicate+Extensions.swift",
+      "line": 29,
+      "symbol": "NSComparisonPredicate.init(attribute:equalTo:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSComparisonPredicate+Extensions.swift",
+      "line": 33,
+      "symbol": "NSComparisonPredicate.init(attribute:notEqualTo:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSComparisonPredicate+Extensions.swift",
+      "line": 43,
+      "symbol": "NSComparisonPredicate.init(attribute:like:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSComparisonPredicate+Extensions.swift",
+      "line": 47,
+      "symbol": "NSComparisonPredicate.init(attribute:beginsWith:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSComparisonPredicate+Extensions.swift",
+      "line": 51,
+      "symbol": "NSComparisonPredicate.init(attribute:endsWith:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSComparisonPredicate+Extensions.swift",
+      "line": 55,
+      "symbol": "NSComparisonPredicate.init(attribute:in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSComparisonPredicate+Extensions.swift",
+      "line": 59,
+      "symbol": "NSComparisonPredicate.init(attribute:contains:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSComparisonPredicate+Extensions.swift",
+      "line": 63,
+      "symbol": "NSComparisonPredicate.init(attribute:between:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSComparisonPredicate+Extensions.swift",
+      "line": 67,
+      "symbol": "NSComparisonPredicate.init(attribute:operatorType:value:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSComparisonPredicate+Extensions.swift",
+      "line": 71,
+      "symbol": "NSComparisonPredicate.init(keyPath:constantValue:type:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSComparisonPredicate+Extensions.swift",
+      "line": 89,
+      "symbol": "NSComparisonPredicate.init(leftExpression:rightExpression:type:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSManagedObjectContext+Extensions.swift",
+      "line": 13,
+      "symbol": "NSManagedObjectContext.insertObject()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSManagedObjectContext+Extensions.swift",
+      "line": 20,
+      "symbol": "NSManagedObjectContext.performChanges(block:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSPrimitiveAttributeCoder.swift",
+      "line": 12,
+      "symbol": "NSPrimitiveAttributeCoder",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSPrimitiveAttributeCoder.swift",
+      "line": 17,
+      "symbol": "Bool.attributeType()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSPrimitiveAttributeCoder.swift",
+      "line": 23,
+      "symbol": "Decimal.attributeType()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSPrimitiveAttributeCoder.swift",
+      "line": 29,
+      "symbol": "Double.attributeType()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSPrimitiveAttributeCoder.swift",
+      "line": 35,
+      "symbol": "Float.attributeType()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSPrimitiveAttributeCoder.swift",
+      "line": 41,
+      "symbol": "Int.attributeType()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSPrimitiveAttributeCoder.swift",
+      "line": 47,
+      "symbol": "Int16.attributeType()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSPrimitiveAttributeCoder.swift",
+      "line": 53,
+      "symbol": "Int32.attributeType()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/NSPrimitiveAttributeCoder.swift",
+      "line": 59,
+      "symbol": "Int64.attributeType()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/OSDatabase.swift",
+      "line": 11,
+      "symbol": "OSDatabase",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/OSDatabase.swift",
+      "line": 191,
+      "symbol": "OSDatabase",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/OSDatabaseObserverToken.swift",
+      "line": 11,
+      "symbol": "OSDatabaseObserverToken",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/OSDatabaseQuery.swift",
+      "line": 13,
+      "symbol": "OSDatabaseQuery",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/OSDatabaseQuery.swift",
+      "line": 496,
+      "symbol": "NSFetchedValueController.fetchedValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/OSDatabaseQueryObserverToken.swift",
+      "line": 11,
+      "symbol": "OSDatabaseQueryObserverToken",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/PredicateBuilder.swift",
+      "line": 11,
+      "symbol": "PredicateBuilder",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/PredicateBuilder.swift",
+      "line": 138,
+      "symbol": "PredicateStaticBuilder",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/PredicateOperators.swift",
+      "line": 11,
+      "symbol": "PredicateOperators",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/PredicateOperators.swift",
+      "line": 28,
+      "symbol": "PredicateStaticOperators",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/Query.swift",
+      "line": 11,
+      "symbol": "Query",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/QueryObserverToken.swift",
+      "line": 11,
+      "symbol": "QueryChange",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/CoreData/QueryObserverToken.swift",
+      "line": 42,
+      "symbol": "QueryObserverToken",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Create Transaction/CategoriesPanel.swift",
+      "line": 11,
+      "symbol": "CategoriesPanel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Create Transaction/ExpenseCreationViewController.swift",
+      "line": 14,
+      "symbol": "ExpenseOption",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Create Transaction/ExpenseCreationViewController.swift",
+      "line": 21,
+      "symbol": "ExpenseCreationViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Create Transaction/ExpenseCreationViewController.swift",
+      "line": 420,
+      "symbol": "ExpenseCreationViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Create Transaction/ExpenseCreationViewController.swift",
+      "line": 431,
+      "symbol": "ExpenseCreationViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Create Transaction/ExpenseCreationViewController.swift",
+      "line": 446,
+      "symbol": "ExpenseCreationViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Create Transaction/ExpenseCreationViewController.swift",
+      "line": 502,
+      "symbol": "ExpenseCreationViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Create Transaction/ExpenseDatePanel.swift",
+      "line": 11,
+      "symbol": "ExpenseDatePanel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Create Transaction/ExpenseNotesPanel.swift",
+      "line": 11,
+      "symbol": "ExpenseNotesPanel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Create Transaction/ExpenseTagsPanel.swift",
+      "line": 11,
+      "symbol": "ExpenseTagsPanel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/ArticleContentView.swift",
+      "line": 11,
+      "symbol": "ArticleContentView",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/ArticleContentView.swift",
+      "line": 96,
+      "symbol": "TransactionContentView_Previews",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/DateContentView.swift",
+      "line": 11,
+      "symbol": "DateContentView",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/DateContentView.swift",
+      "line": 62,
+      "symbol": "DateContentView_Previews",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/DateFilterContentView.swift",
+      "line": 11,
+      "symbol": "DateFilterContentView",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/DateFilterContentView.swift",
+      "line": 108,
+      "symbol": "DateFilterContentView_Previews",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/DialogListViewController.swift",
+      "line": 11,
+      "symbol": "DialogListViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/DialogMessageViewController.swift",
+      "line": 12,
+      "symbol": "DialogMessageViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/DialogTitleValueViewController.swift",
+      "line": 13,
+      "symbol": "DialogTitleValueViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/DialogTitleValueViewController.swift",
+      "line": 131,
+      "symbol": "DialogTitleValueViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/DialogTitleViewController.swift",
+      "line": 13,
+      "symbol": "DialogTitleViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/DialogTitleViewController.swift",
+      "line": 102,
+      "symbol": "DialogTitleViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/DialogViewController.swift",
+      "line": 14,
+      "symbol": "DialogAction",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/DialogViewController.swift",
+      "line": 19,
+      "symbol": "DialogStyle",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/DialogViewController.swift",
+      "line": 24,
+      "symbol": "UIDialogButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/DialogViewController.swift",
+      "line": 28,
+      "symbol": "DialogViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/NoteContentView.swift",
+      "line": 11,
+      "symbol": "NoteContentView",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/NoteContentView.swift",
+      "line": 67,
+      "symbol": "NoteContentView_Previews",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/TagContentView.swift",
+      "line": 11,
+      "symbol": "TagContentView",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Dialogs/TagContentView.swift",
+      "line": 72,
+      "symbol": "TagContentView_Previews",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Features.swift",
+      "line": 11,
+      "symbol": "Features",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Generated/Assets.swift",
+      "line": 14,
+      "symbol": "AssetColorTypeAlias",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Generated/Assets.swift",
+      "line": 16,
+      "symbol": "AssetImageTypeAlias",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Generated/Assets.swift",
+      "line": 23,
+      "symbol": "Asset",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Generated/Assets.swift",
+      "line": 95,
+      "symbol": "ColorAsset",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Generated/Assets.swift",
+      "line": 117,
+      "symbol": "ColorAsset.Color",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Generated/Assets.swift",
+      "line": 131,
+      "symbol": "ImageAsset",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Generated/Assets.swift",
+      "line": 157,
+      "symbol": "ImageAsset.Image",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Generated/LocalizableStrings.swift",
+      "line": 12,
+      "symbol": "L10n",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 21,
+      "symbol": "MainViewController.logoLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 22,
+      "symbol": "MainViewController.headerView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 24,
+      "symbol": "MainViewController.settingsButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 25,
+      "symbol": "MainViewController.filterButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 26,
+      "symbol": "MainViewController.statisticsButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 43,
+      "symbol": "MainViewController.viewModel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 46,
+      "symbol": "MainViewController.timelineView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 54,
+      "symbol": "MainViewController.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 64,
+      "symbol": "MainViewController.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 68,
+      "symbol": "MainViewController.deinit",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 72,
+      "symbol": "MainViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 79,
+      "symbol": "MainViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 93,
+      "symbol": "MainViewController.preferredStatusBarStyle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 102,
+      "symbol": "MainViewController.registerObservers()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 110,
+      "symbol": "MainViewController.setupUI()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 153,
+      "symbol": "MainViewController.dateFilterSegmentedControlValueChanged(segmentedControl:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 180,
+      "symbol": "MainViewController.loadContent()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 199,
+      "symbol": "MainViewController.didTouchSettings(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 205,
+      "symbol": "MainViewController.didTouchStatistics(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 211,
+      "symbol": "MainViewController.didTouchSearch(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 223,
+      "symbol": "MainViewController.setupTimeline()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 255,
+      "symbol": "MainViewController.prepareForQuickAction(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/MainViewController.swift",
+      "line": 267,
+      "symbol": "MainViewController.controllerDidChangeContent(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/Article.swift",
+      "line": 11,
+      "symbol": "Article",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/Article.swift",
+      "line": 52,
+      "symbol": "Article",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/Article.swift",
+      "line": 65,
+      "symbol": "Array.totalAmount()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/Category.swift",
+      "line": 11,
+      "symbol": "Category",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/Category.swift",
+      "line": 11,
+      "symbol": "Category",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/Category.swift",
+      "line": 65,
+      "symbol": "Category",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/CategoryError.swift",
+      "line": 11,
+      "symbol": "CategoryError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/CategoryError.swift",
+      "line": 11,
+      "symbol": "CategoryError",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/CategoryExample.swift",
+      "line": 11,
+      "symbol": "CategoryExample",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/DateFilter.swift",
+      "line": 11,
+      "symbol": "DateFilter",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/DateFilter.swift",
+      "line": 13,
+      "symbol": "DateFilter",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/DateFilter.swift",
+      "line": 30,
+      "symbol": "DateFilter",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/DateFilterOptions.swift",
+      "line": 12,
+      "symbol": "DateFilterOptions",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/DateFilterOptions.swift",
+      "line": 12,
+      "symbol": "DateFilterOptions",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/Tag.swift",
+      "line": 11,
+      "symbol": "Tag",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/Tag.swift",
+      "line": 41,
+      "symbol": "Tag",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/Tag.swift",
+      "line": 50,
+      "symbol": "Tag",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/Transaction.swift",
+      "line": 12,
+      "symbol": "Transaction",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/Transaction.swift",
+      "line": 60,
+      "symbol": "Transaction",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Models/Transaction.swift",
+      "line": 77,
+      "symbol": "Array.totalAmount()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Onboarding/OnboardCloudDataView.swift",
+      "line": 13,
+      "symbol": "OnboardCloudDataView",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Onboarding/OnboardCloudDataView.swift",
+      "line": 285,
+      "symbol": "OnboardCloudDataView_Previews",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Onboarding/OnboardPollView.swift",
+      "line": 11,
+      "symbol": "OnboardPollView",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Onboarding/OnboardPollView.swift",
+      "line": 127,
+      "symbol": "OnboardPollView_Previews",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Onboarding/OnboardUpgradeView.swift",
+      "line": 12,
+      "symbol": "OnboardUpgradeView",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Onboarding/OnboardUpgradeView.swift",
+      "line": 155,
+      "symbol": "OnboardUpgradeView_Previews",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Onboarding/OnboardUpgradeView.swift",
+      "line": 161,
+      "symbol": "MockMigratorDoingMigration",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Onboarding/OnboardWelcomeView.swift",
+      "line": 11,
+      "symbol": "OnboardWelcomeView",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Onboarding/OnboardWelcomeView.swift",
+      "line": 103,
+      "symbol": "OnboardWelcomeView_Previews",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Onboarding/OnboardingCoordinator.swift",
+      "line": 12,
+      "symbol": "OnboardWelcomeCoordinator",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Onboarding/OnboardingCoordinator.swift",
+      "line": 16,
+      "symbol": "OnboardWelcomeNavCoordinator",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Onboarding/OnboardingViewController.swift",
+      "line": 12,
+      "symbol": "OnboardingViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Onboarding/OnboardingViewController.swift",
+      "line": 100,
+      "symbol": "UIPageViewController.pageControl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Realm/CategoryStore.swift",
+      "line": 13,
+      "symbol": "CategoryStore",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Realm/ExpenseStore.swift",
+      "line": 13,
+      "symbol": "ExpenseStore",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Realm/StoreEvents.swift",
+      "line": 11,
+      "symbol": "StoreEvent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Realm/StoreMigrations.swift",
+      "line": 38,
+      "symbol": "localStoreConfiguration",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Realm/TagStore.swift",
+      "line": 12,
+      "symbol": "TagStore",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Realm/TransactionStore.swift",
+      "line": 12,
+      "symbol": "TransactionStore",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/RealmToCoreDataMigrator.swift",
+      "line": 13,
+      "symbol": "DatabaseMigrator",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/RealmToCoreDataMigrator.swift",
+      "line": 21,
+      "symbol": "RealmToCoreDataMigrator",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Screen Lock/BiometricAuthentication.swift",
+      "line": 13,
+      "symbol": "BiometricAuthenticationType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Screen Lock/BiometricAuthentication.swift",
+      "line": 49,
+      "symbol": "BiometricAuthentication",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Screen Lock/Passcode.swift",
+      "line": 12,
+      "symbol": "PasscodeEvent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Screen Lock/Passcode.swift",
+      "line": 16,
+      "symbol": "Passcode",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Screen Lock/PasscodeBulletView.swift",
+      "line": 11,
+      "symbol": "PasscodeBulletView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Screen Lock/PasscodeBulletsView.swift",
+      "line": 12,
+      "symbol": "PasscodeBulletsView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Screen Lock/PasscodeMode.swift",
+      "line": 11,
+      "symbol": "PasscodeMode",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Screen Lock/PasscodeStateMachine.swift",
+      "line": 11,
+      "symbol": "PasscodeStateMachineEvent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Screen Lock/PasscodeStateMachine.swift",
+      "line": 17,
+      "symbol": "PasscodeStateMachineState",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Screen Lock/PasscodeStateMachine.swift",
+      "line": 22,
+      "symbol": "PasscodeError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Screen Lock/PasscodeStateMachine.swift",
+      "line": 27,
+      "symbol": "PasscodeStateMachine",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Screen Lock/PasscodeStore.swift",
+      "line": 11,
+      "symbol": "PasscodeStore",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Screen Lock/PasscodeViewController.swift",
+      "line": 13,
+      "symbol": "PasscodeViewControllerDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Screen Lock/PasscodeViewController.swift",
+      "line": 19,
+      "symbol": "PasscodeViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Screen Lock/ScreenLockTimeInterval.swift",
+      "line": 11,
+      "symbol": "ScreenLockTimeInterval",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Screen Lock/ScreenLockerManager.swift",
+      "line": 11,
+      "symbol": "ScreenLockerManager",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Screen Lock/SecurePasscodeStore.swift",
+      "line": 12,
+      "symbol": "kPasscodeStoreKey",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Screen Lock/SecurePasscodeStore.swift",
+      "line": 14,
+      "symbol": "SecurePasscodeStore",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Search/SearchTransactionsController.swift",
+      "line": 12,
+      "symbol": "SearchTransactionsController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Search/SearchTransactionsController.swift",
+      "line": 111,
+      "symbol": "SearchTransactionsController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Search/SearchViewController.swift",
+      "line": 13,
+      "symbol": "SearchViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Search/SearchViewController.swift",
+      "line": 128,
+      "symbol": "SearchViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Search/SearchViewController.swift",
+      "line": 232,
+      "symbol": "SearchViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Search/SearchViewController.swift",
+      "line": 271,
+      "symbol": "SearchViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Settings/Backups/BackupFile.swift",
+      "line": 11,
+      "symbol": "BackupFile",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Settings/Backups/BackupManager.swift",
+      "line": 11,
+      "symbol": "BackupManager",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Settings/Backups/BackupsViewController.swift",
+      "line": 14,
+      "symbol": "BackupsViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Settings/SettingsListViewController.swift",
+      "line": 11,
+      "symbol": "SettingsListViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Settings/SettingsPremiumViewController.swift",
+      "line": 11,
+      "symbol": "SettingsPremiumViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Settings/SettingsScreenLockViewController.swift",
+      "line": 13,
+      "symbol": "SettingsScreenLockViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Settings/SettingsTableViewController.swift",
+      "line": 11,
+      "symbol": "SettingsTableViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Settings/SettingsViewController.swift",
+      "line": 48,
+      "symbol": "SettingsViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Settings/SettingsViewController.swift",
+      "line": 262,
+      "symbol": "SettingsViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Settings/SettingsViewController.swift",
+      "line": 284,
+      "symbol": "WeekDay.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Statistics/CategoryExpensesTableView.swift",
+      "line": 11,
+      "symbol": "CategoryExpensesTableView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Statistics/CategoryExpensesTableViewCell.swift",
+      "line": 11,
+      "symbol": "CategoryExpensesTableViewCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Statistics/StatisticFooterView.swift",
+      "line": 11,
+      "symbol": "StatisticFooterView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Statistics/StatisticViewCell.swift",
+      "line": 11,
+      "symbol": "StatisticViewCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Statistics/StatisticsViewController.swift",
+      "line": 12,
+      "symbol": "StatisticsViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Statistics/StatisticsViewController.swift",
+      "line": 131,
+      "symbol": "StatisticsViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Statistics/StatisticsViewController.swift",
+      "line": 203,
+      "symbol": "StatisticsViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Styles/StyleKit.swift",
+      "line": 11,
+      "symbol": "StyleKit",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Styles/StyleKit.swift",
+      "line": 13,
+      "symbol": "StyleKit",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Styles/StyleKitViews.swift",
+      "line": 13,
+      "symbol": "UIView.heightConstraint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Styles/StyleKitViews.swift",
+      "line": 27,
+      "symbol": "UICustomLabel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Styles/StyleKitViews.swift",
+      "line": 56,
+      "symbol": "UICustomTextField",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Styles/StyleKitViews.swift",
+      "line": 75,
+      "symbol": "TitlePosition",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Styles/StyleKitViews.swift",
+      "line": 82,
+      "symbol": "UITitled",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Styles/StyleKitViews.swift",
+      "line": 90,
+      "symbol": "UITitledImpl",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Styles/StyleKitViews.swift",
+      "line": 131,
+      "symbol": "UITitledLabel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Styles/StyleKitViews.swift",
+      "line": 156,
+      "symbol": "UITitledLabel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Styles/StyleKitViews.swift",
+      "line": 178,
+      "symbol": "UITitledTextField",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Styles/StyleKitViews.swift",
+      "line": 221,
+      "symbol": "UITitledTextField",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Styles/StyleKitViews.swift",
+      "line": 243,
+      "symbol": "UITotalLabel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Styles/StyleKitViews.swift",
+      "line": 247,
+      "symbol": "UINumberLabel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Styles/StyleKitViews.swift",
+      "line": 315,
+      "symbol": "UICategoryLabel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Styles/StyleKitViews.swift",
+      "line": 323,
+      "symbol": "UIDateLabel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Styles/StyleKitViews.swift",
+      "line": 345,
+      "symbol": "UIView.defaultTopAnchor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Styles/StyleKitViews.swift",
+      "line": 354,
+      "symbol": "UIView.defaultBottomAnchor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/SwiftUI/ActivityIndicatorRepresentable.swift",
+      "line": 11,
+      "symbol": "ActivityIndicator",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/SwiftUI/CompletionObject.swift",
+      "line": 11,
+      "symbol": "CompletionObject",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/SwiftUI/DateButtonStyle.swift",
+      "line": 11,
+      "symbol": "DateButtonStyle",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/SwiftUI/FieldChecker.swift",
+      "line": 11,
+      "symbol": "FieldChecker",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/SwiftUI/FieldValidator.swift",
+      "line": 11,
+      "symbol": "FieldValidator",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/SwiftUI/HostingProxyObject.swift",
+      "line": 11,
+      "symbol": "HostingProxyObject",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/SwiftUI/MailSupportView.swift",
+      "line": 12,
+      "symbol": "MailSupportView",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/SwiftUI/ModalHostingController.swift",
+      "line": 14,
+      "symbol": "ModalHostingController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/SwiftUI/PopupHostingController.swift",
+      "line": 11,
+      "symbol": "PopupHostingController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/SwiftUI/ReadableGuideModifier.swift",
+      "line": 23,
+      "symbol": "View.readableGuidePadding()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/SwiftUI/TextFieldWithValidator.swift",
+      "line": 12,
+      "symbol": "TextFieldWithValidator",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/SwiftUI/Unwrap.swift",
+      "line": 11,
+      "symbol": "Unwrap",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/NumberKeyButton.swift",
+      "line": 11,
+      "symbol": "KeyType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/NumberKeyButton.swift",
+      "line": 19,
+      "symbol": "NumberKeyButton",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/NumberPadView.swift",
+      "line": 11,
+      "symbol": "pow2(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/NumberPadView.swift",
+      "line": 15,
+      "symbol": "NumberPadOptions",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/NumberPadView.swift",
+      "line": 19,
+      "symbol": "NumberPadView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineCell.swift",
+      "line": 12,
+      "symbol": "TimelineCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 14,
+      "symbol": "TimelineViewOwner",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 23,
+      "symbol": "TimelineView.HeaderMode",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 33,
+      "symbol": "TimelineView.headerView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 34,
+      "symbol": "TimelineView.timelineHeaderView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 35,
+      "symbol": "TimelineView.totalOfExpensesLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 36,
+      "symbol": "TimelineView.totalOfIncomeLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 37,
+      "symbol": "TimelineView.timelineDataView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 38,
+      "symbol": "TimelineView.timelinePanGesture",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 39,
+      "symbol": "TimelineView.timelineTapGesture",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 40,
+      "symbol": "TimelineView.expensesTableView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 41,
+      "symbol": "TimelineView.searchButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 48,
+      "symbol": "TimelineView.viewModel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 50,
+      "symbol": "TimelineView.currentFilter",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 60,
+      "symbol": "TimelineView.numberLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 61,
+      "symbol": "TimelineView.numberPadButtons",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 77,
+      "symbol": "TimelineView.currentHeaderMode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 101,
+      "symbol": "TimelineView.headerTopConstraint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 102,
+      "symbol": "TimelineView.timelineHeaderTopConstraint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 103,
+      "symbol": "TimelineView.expenseTableViewBottomConstraint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 104,
+      "symbol": "TimelineView.timelineHeaderLabelCenterYConstraint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 109,
+      "symbol": "TimelineView.owner",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 111,
+      "symbol": "TimelineView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 117,
+      "symbol": "TimelineView.deinit",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 121,
+      "symbol": "TimelineView.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 126,
+      "symbol": "TimelineView.create(_:viewModel:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 168,
+      "symbol": "TimelineView.setupUI()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 208,
+      "symbol": "TimelineView.showExpense(amount:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 237,
+      "symbol": "TimelineView.showNoCategoriesDialog()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 243,
+      "symbol": "TimelineView.openHeader(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 257,
+      "symbol": "TimelineView.closeHeader(animated:onCompletion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 341,
+      "symbol": "TimelineView.verifiyUIInconsistency()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 355,
+      "symbol": "TimelineView.handleHeaderTransition(_:showing:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 402,
+      "symbol": "TimelineView.handleTimelineTapGesture(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 411,
+      "symbol": "TimelineView.handleTimelinePanGesture(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 464,
+      "symbol": "TimelineView.headerWillOpen()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 468,
+      "symbol": "TimelineView.headerDidOpen()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 474,
+      "symbol": "TimelineView.didTouchNext()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 482,
+      "symbol": "TimelineView.didTouchKey(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 496,
+      "symbol": "TimelineView.didLongPressBackspace(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 503,
+      "symbol": "TimelineView.didTouchTimelineHeader(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 512,
+      "symbol": "TimelineView.didTapBackgroundView(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 519,
+      "symbol": "TimelineView.observeValue(forKeyPath:of:change:context:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 532,
+      "symbol": "TimelineView.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 536,
+      "symbol": "TimelineView.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 540,
+      "symbol": "TimelineView.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 556,
+      "symbol": "TimelineView.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 573,
+      "symbol": "TimelineView.smoothlyDeselectRows()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 586,
+      "symbol": "TimelineView.tableView(_:estimatedHeightForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 591,
+      "symbol": "TimelineView.tableView(_:trailingSwipeActionsConfigurationForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 604,
+      "symbol": "TimelineView.tableView(_:contextMenuConfigurationForRowAt:point:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 620,
+      "symbol": "TimelineView.scrollViewDidScroll(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 642,
+      "symbol": "TimelineView.scrollViewWillBeginDragging(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 665,
+      "symbol": "TimelineView.scrollViewWillEndDragging(_:withVelocity:targetContentOffset:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/TimelineView.swift",
+      "line": 685,
+      "symbol": "TimelineView.controllerDidChangeContent(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/WalkthroughViewController.swift",
+      "line": 13,
+      "symbol": "WalkthroughContentView",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/WalkthroughViewController.swift",
+      "line": 45,
+      "symbol": "ViewControllerPresentWalkthrough",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/WalkthroughViewController.swift",
+      "line": 49,
+      "symbol": "ViewControllerPresentWalkthrough",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Timeline/WalkthroughViewController.swift",
+      "line": 58,
+      "symbol": "WalkthroughViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Transactions/ExpenseContentView.swift",
+      "line": 11,
+      "symbol": "ExpenseContentView",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Transactions/ExpenseContentView.swift",
+      "line": 308,
+      "symbol": "FormHeader",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Transactions/ExpenseContentView.swift",
+      "line": 339,
+      "symbol": "CaptionHeader",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Transactions/ExpenseContentView.swift",
+      "line": 348,
+      "symbol": "FormFooter",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Transactions/ExpenseContentView.swift",
+      "line": 354,
+      "symbol": "ExpenseContentView_Previews",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Transactions/ExpenseTagViewController.swift",
+      "line": 11,
+      "symbol": "ExpenseTagViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Transactions/ExpenseViewController.swift",
+      "line": 11,
+      "symbol": "ExpenseViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Transactions/ExpensesViewController.swift",
+      "line": 13,
+      "symbol": "ExpensesViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Transactions/ExpensesViewController.swift",
+      "line": 92,
+      "symbol": "ExpensesViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Transactions/ExpensesViewController.swift",
+      "line": 158,
+      "symbol": "ExpensesViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/User/UserSettings.swift",
+      "line": 11,
+      "symbol": "UserSettings",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/User/UserSettings.swift",
+      "line": 13,
+      "symbol": "UserSettings",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/User/UserSettingsEvent.swift",
+      "line": 11,
+      "symbol": "UserSettingsEvent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Utilities/SwiftDate+Extensions.swift",
+      "line": 19,
+      "symbol": "WeekDay.localizedName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Utilities/UIColor+RGBComponents.swift",
+      "line": 13,
+      "symbol": "UIColor.init(red:green:blue:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Utilities/UIColor+RGBComponents.swift",
+      "line": 22,
+      "symbol": "UIColor.rgbComponents",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Utilities/URL+StaticString.swift",
+      "line": 12,
+      "symbol": "URL.init(staticString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/CategoriesViewModel.swift",
+      "line": 12,
+      "symbol": "CategoriesViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/CategoryController.swift",
+      "line": 11,
+      "symbol": "CategoryController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/CategoryController.swift",
+      "line": 11,
+      "symbol": "CategoryController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/CategoryInteractions.swift",
+      "line": 12,
+      "symbol": "CategoryInteractions",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/CategoryViewModel.swift",
+      "line": 11,
+      "symbol": "CategoryViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/CategoryViewModel.swift",
+      "line": 83,
+      "symbol": "CategoryViewModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/CreateTransactionViewModel.swift",
+      "line": 12,
+      "symbol": "CreateTransactionViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/SearchTransactionViewModel.swift",
+      "line": 12,
+      "symbol": "SearchTransactionViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/SearchViewModel.swift",
+      "line": 12,
+      "symbol": "SearchViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/StatisticsViewModel.swift",
+      "line": 12,
+      "symbol": "StatisticsViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/TimelineViewModel.swift",
+      "line": 12,
+      "symbol": "TimelineViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/TransactionController.swift",
+      "line": 11,
+      "symbol": "TransactionError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/TransactionController.swift",
+      "line": 18,
+      "symbol": "TransactionController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/TransactionInteractions.swift",
+      "line": 12,
+      "symbol": "TransactionInteractions",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/TransactionInteractions.swift",
+      "line": 128,
+      "symbol": "TransactionInteractions",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/TransactionViewModel.swift",
+      "line": 11,
+      "symbol": "TransactionViewModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/TransactionViewModel.swift",
+      "line": 12,
+      "symbol": "TransactionViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/TransactionsViewModel.swift",
+      "line": 11,
+      "symbol": "TransactionsViewModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/ViewModels/TransactionsViewModel.swift",
+      "line": 12,
+      "symbol": "TransactionsViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Views/ActivityIndicatorTableViewCell.swift",
+      "line": 11,
+      "symbol": "ActivityIndicatorTableViewCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Views/StaticTableView.swift",
+      "line": 12,
+      "symbol": "StaticTableViewSelectionType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Views/StaticTableView.swift",
+      "line": 19,
+      "symbol": "StaticTableItem",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Views/StaticTableView.swift",
+      "line": 23,
+      "symbol": "StaticTableView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Money/Views/TitleHeaderView.swift",
+      "line": 11,
+      "symbol": "TitleHeaderView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/Money/Pods/WSLogger/Source/WSLoggable.swift",
+      "line": 26,
+      "symbol": "WSLoggable",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/ricardopereira/Repositories/Money"
+}

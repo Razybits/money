@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Money  Reference</title>
+    <link rel="stylesheet" type="text/css" href="css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="js/jquery.min.js" defer></script>
+    <script src="js/jazzy.js" defer></script>
+    
+    <script src="js/lunr.min.js" defer></script>
+    <script src="js/typeahead.jquery.js" defer></script>
+    <script src="js/jazzy.search.js" defer></script>
+  </head>
+  <body>
+    <a title="Money  Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="index.html">Money - income &amp; expense tracker documentation</a></p>
+        <p class="header-right"><a href="https://github.com/razybits/money.git"><img src="img/gh.png"/>View on GitHub</a></p>
+        <p class="header-right"><a href="dash-feed://https%3A%2F%2Frazybits.com%2Fdocsets%2FMoney.xml"><img src="img/dash.png"/>Install in Dash</a></p>
+        <p class="header-right">
+          <form role="search" action="search.json">
+            <input type="text" placeholder="Search documentation" data-typeahead>
+          </form>
+        </p>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="index.html">Money Reference</a>
+        <img id="carat" src="img/carat.png" />
+        Money  Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="Application.html">Application</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="Classes/MainViewController.html">MainViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Classes/TimelineView.html">TimelineView</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="Other%20Classes.html">Other Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="Other%20Classes.html#/s:5Money13DatabaseQueryC">DatabaseQuery</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Other%20Classes.html#/s:5Money24NSFetchedValueControllerC">NSFetchedValueController</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="Other%20Extensions.html">Other Extensions</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="Other%20Extensions.html#/s:Sb">Bool</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Other%20Extensions.html#/c:@SA@NSDecimal">Decimal</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Other%20Extensions.html#/s:Sd">Double</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Other%20Extensions.html#/s:Sf">Float</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Other%20Extensions.html#/s:Si">Int</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Other%20Extensions.html#/s:s5Int16V">Int16</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Other%20Extensions.html#/s:s5Int32V">Int32</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Other%20Extensions.html#/s:s5Int64V">Int64</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Extensions/NSComparisonPredicate.html">NSComparisonPredicate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Extensions/UICollectionView.html">UICollectionView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Other%20Extensions.html#/s:7SwiftUI19UIHostingControllerC">UIHostingController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Other%20Extensions.html#/c:objc(cs)UINavigationController">UINavigationController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Extensions/UIView.html">UIView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Extensions/WeekDay.html">WeekDay</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            
+            <h1 id='money' class='heading'>Money</h1>
+<h2 id='requirements' class='heading'>Requirements</h2>
+
+<ul>
+<li>Apple Developer account.</li>
+<li><a href="https://cocoapods.org">CocoaPods</a> v1.8 or greater.</li>
+<li><a href="https://github.com/Carthage/Carthage">Carthage</a> v0.33 or greater.</li>
+<li><a href="https://github.com/SwiftGen/SwiftGen">SwiftGen</a> v6.0 or greater.</li>
+<li>Xcode 12+</li>
+<li>iOS 14+</li>
+</ul>
+<h2 id='getting-started' class='heading'>Getting Started</h2>
+
+<ol>
+<li>Install <a href="https://github.com/CocoaPods/CocoaPods">CocoaPods</a> and run <code>pod install</code>.</li>
+<li>Install <a href="https://github.com/Carthage/Carthage">Carthage</a> and run <code>carthage update --platform iOS</code>.</li>
+<li>Install <a href="https://github.com/SwiftGen/SwiftGen">SwiftGen</a> and run <code>swiftgen</code>.</li>
+<li>Open the <code>Money.xcworkspace</code> file.</li>
+<li>Set up Apple Developer account, change signing and entitlements based on your preferences.</li>
+</ol>
+
+<blockquote>
+<p>We are always available to help you setting up the project. Please contact us if you are having trouble running the app in the simulator or on your iPhone.</p>
+</blockquote>
+<h2 id='localization-amp-assets' class='heading'>Localization &amp; Assets</h2>
+
+<p>Generate <code>Localizable.strings</code>, <code>Assets.swift</code>, etc. files using <a href="https://github.com/AliSoftware/SwiftGen#localizablestrings">SwiftGen</a>:</p>
+<pre class="highlight plaintext"><code>swiftgen
+</code></pre>
+<h2 id='live-version' class='heading'>Live version</h2>
+
+<p>The app is available in the <a href="https://itunes.apple.com/pt/app/money-the-fastest-expense-tracker/id1076339783?l=en">App Store</a>. If you want to test the app before buying, then please request us a promo code.</p>
+<h2 id='documentation' class='heading'>Documentation</h2>
+
+<p>You can see the full Wiki at <a href="https://github.com/razybits/money/wiki">https://github.com/razybits/money/wiki</a>.</p>
+
+          </section>
+        </section>
+        <section id="footer">
+          <p>© 2020 <a class="link" href="https://razybits.com" target="_blank" rel="external">Razybits</a>. All rights reserved.</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.13.5</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</div>
+</html>
