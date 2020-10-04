@@ -11,8 +11,8 @@ presskit_download_link                    :                                     
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Money                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :
-app_description                           : Money is a basic income & expense tracker, focused on simplicity. Our mission is to help people be financially healthy.
+app_price                                 : Focused on simplicity.
+app_description                           : A basic income & expense tracker. Our mission is to help people be financially healthy.
 
 enable_smart_app_banner                   : true                                    # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -20,8 +20,8 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Razybits
-your_link                                 : https://razybits.com
-your_city                                 : Lisbon, Portugal
+your_link                                 : https://razybits.com/money
+your_city                                 : Portugal
 email_address                             : money@razybits.com
 facebook_username                         :
 instagram_username                        :
