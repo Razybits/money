@@ -18,19 +18,19 @@
     <header>
       <div class="content-wrapper">
         <p><a href="../index.html">Money - income &amp; expense tracker documentation</a></p>
-        <p class="header-right"><a href="https://github.com/razybits/money.git"><img src="../img/gh.png"/>View on GitHub</a></p>
-        <p class="header-right"><a href="dash-feed://https%3A%2F%2Frazybits.com%2Fdocsets%2FMoney.xml"><img src="../img/dash.png"/>Install in Dash</a></p>
-        <p class="header-right">
+        <p class="header-right"><a href="https://github.com/razybits/money.git"><img src="../img/gh.png" alt="GitHub"/>View on GitHub</a></p>
+        <p class="header-right"><a href="dash-feed://https%3A%2F%2Frazybits.com%2Fdocsets%2FMoney.xml"><img src="../img/dash.png" alt="Dash"/>Install in Dash</a></p>
+        <div class="header-right">
           <form role="search" action="../search.json">
             <input type="text" placeholder="Search documentation" data-typeahead>
           </form>
-        </p>
+        </div>
       </div>
     </header>
     <div class="content-wrapper">
       <p id="breadcrumbs">
         <a href="../index.html">Money Reference</a>
-        <img id="carat" src="../img/carat.png" />
+        <img id="carat" src="../img/carat.png" alt=""/>
         DateFilter Enumeration Reference
       </p>
     </div>
@@ -139,6 +139,9 @@
               <li class="nav-group-task">
                 <a href="../Structs/ArticleContentView.html">ArticleContentView</a>
               </li>
+              <li class="nav-group-task">
+                <a href="../Structs/ExportDataContentView.html">ExportDataContentView</a>
+              </li>
             </ul>
           </li>
           <li class="nav-group-name">
@@ -152,12 +155,6 @@
               </li>
               <li class="nav-group-task">
                 <a href="../Classes/DialogMessageViewController.html">DialogMessageViewController</a>
-              </li>
-              <li class="nav-group-task">
-                <a href="../Classes/DialogTitleViewController.html">DialogTitleViewController</a>
-              </li>
-              <li class="nav-group-task">
-                <a href="../Classes/DialogTitleValueViewController.html">DialogTitleValueViewController</a>
               </li>
             </ul>
           </li>
@@ -266,19 +263,42 @@
             </ul>
           </li>
           <li class="nav-group-name">
-            <a href="../Components.html">Components</a>
+            <a href="../Panels.html">Panels</a>
             <ul class="nav-group-tasks">
               <li class="nav-group-task">
                 <a href="../Classes/NumberPadView.html">NumberPadView</a>
               </li>
               <li class="nav-group-task">
-                <a href="../Components.html#/c:@M@Money@objc(cs)CategoriesPanel">CategoriesPanel</a>
+                <a href="../Panels.html#/c:@M@Money@objc(cs)CategoriesPanel">CategoriesPanel</a>
               </li>
               <li class="nav-group-task">
-                <a href="../Components.html#/c:@M@Money@objc(cs)DatePanel">DatePanel</a>
+                <a href="../Panels.html#/c:@M@Money@objc(cs)DatePanel">DatePanel</a>
               </li>
               <li class="nav-group-task">
-                <a href="../Components.html#/c:@M@Money@objc(cs)NotesPanel">NotesPanel</a>
+                <a href="../Panels.html#/c:@M@Money@objc(cs)NotesPanel">NotesPanel</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Data%20Export.html">Data Export</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Structs/CSV.html">CSV</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Data%20Export.html#/s:5Money10CSVEncoderC">CSVEncoder</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/DataExporter.html">DataExporter</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/DataExporterError.html">DataExporterError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/FileFormat.html">FileFormat</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/TransactionsDataExporter.html">TransactionsDataExporter</a>
               </li>
             </ul>
           </li>
@@ -745,6 +765,87 @@
                 <li class="item">
                   <div>
                     <code>
+                    <a name="/s:5Money10DateFilterO13generateDates4with10Foundation0B0V_AHtAA0bC7OptionsV_tF"></a>
+                    <a name="//apple_ref/swift/Method/generateDates(with:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:5Money10DateFilterO13generateDates4with10Foundation0B0V_AHtAA0bC7OptionsV_tF">generateDates(with:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Create a range of dates from date filter.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">generateDates</span><span class="p">(</span><span class="n">with</span> <span class="nv">options</span><span class="p">:</span> <span class="kt">DateFilterOptions</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="p">(</span><span class="kt">Date</span><span class="p">,</span> <span class="kt">Date</span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:5Money10DateFilterO17generatePredicate4withSo11NSPredicateCAA0bC7OptionsV_tF"></a>
+                    <a name="//apple_ref/swift/Method/generatePredicate(with:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:5Money10DateFilterO17generatePredicate4withSo11NSPredicateCAA0bC7OptionsV_tF">generatePredicate(with:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Create a <code>NSPredicate</code> instance from date filter.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">generatePredicate</span><span class="p">(</span><span class="n">with</span> <span class="nv">options</span><span class="p">:</span> <span class="kt">DateFilterOptions</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">NSPredicate</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:5Money10DateFilterO32generateDatesAtStartAndEndOfDays05beginB003endB010Foundation0B0V_AItAI_AItFZ"></a>
+                    <a name="//apple_ref/swift/Method/generateDatesAtStartAndEndOfDays(beginDate:endDate:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:5Money10DateFilterO32generateDatesAtStartAndEndOfDays05beginB003endB010Foundation0B0V_AItAI_AItFZ">generateDatesAtStartAndEndOfDays(beginDate:<wbr>endDate:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Create a range of dates that use the complete day of the start date and the complete day of the end date.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">static</span> <span class="kd">func</span> <span class="nf">generateDatesAtStartAndEndOfDays</span><span class="p">(</span><span class="nv">beginDate</span><span class="p">:</span> <span class="kt">Date</span><span class="p">,</span> <span class="nv">endDate</span><span class="p">:</span> <span class="kt">Date</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="p">(</span><span class="kt">Date</span><span class="p">,</span> <span class="kt">Date</span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
                     <a name="/s:s23CustomStringConvertibleP11descriptionSSvp"></a>
                     <a name="//apple_ref/swift/Property/description" class="dashAnchor"></a>
                     <a class="token" href="#/s:s23CustomStringConvertibleP11descriptionSSvp">description</a>
@@ -773,11 +874,10 @@
           </section>
         </section>
         <section id="footer">
-          <p>© 2020 <a class="link" href="https://razybits.com" target="_blank" rel="external">Razybits</a>. All rights reserved.</p>
-          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.13.5</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+          <p>© 2022 <a class="link" href="https://razybits.com" target="_blank" rel="external noopener">Razybits</a>. All rights reserved.</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external noopener">jazzy ♪♫ v0.14.3</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external noopener">Realm</a> project.</p>
         </section>
       </article>
     </div>
   </body>
-</div>
 </html>

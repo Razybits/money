@@ -18,19 +18,19 @@
     <header>
       <div class="content-wrapper">
         <p><a href="index.html">Money - income &amp; expense tracker documentation</a></p>
-        <p class="header-right"><a href="https://github.com/razybits/money.git"><img src="img/gh.png"/>View on GitHub</a></p>
-        <p class="header-right"><a href="dash-feed://https%3A%2F%2Frazybits.com%2Fdocsets%2FMoney.xml"><img src="img/dash.png"/>Install in Dash</a></p>
-        <p class="header-right">
+        <p class="header-right"><a href="https://github.com/razybits/money.git"><img src="img/gh.png" alt="GitHub"/>View on GitHub</a></p>
+        <p class="header-right"><a href="dash-feed://https%3A%2F%2Frazybits.com%2Fdocsets%2FMoney.xml"><img src="img/dash.png" alt="Dash"/>Install in Dash</a></p>
+        <div class="header-right">
           <form role="search" action="search.json">
             <input type="text" placeholder="Search documentation" data-typeahead>
           </form>
-        </p>
+        </div>
       </div>
     </header>
     <div class="content-wrapper">
       <p id="breadcrumbs">
         <a href="index.html">Money Reference</a>
-        <img id="carat" src="img/carat.png" />
+        <img id="carat" src="img/carat.png" alt=""/>
         Other Classes  Reference
       </p>
     </div>
@@ -107,9 +107,6 @@
               <li class="nav-group-task">
                 <a href="Screens.html#/c:@M@Money@objc(cs)SettingsPremiumViewController">SettingsPremiumViewController</a>
               </li>
-              <li class="nav-group-task">
-                <a href="Screens.html#/c:@M@Money@objc(cs)BackupsViewController">BackupsViewController</a>
-              </li>
             </ul>
           </li>
           <li class="nav-group-name">
@@ -142,6 +139,9 @@
               <li class="nav-group-task">
                 <a href="Structs/ArticleContentView.html">ArticleContentView</a>
               </li>
+              <li class="nav-group-task">
+                <a href="Structs/ExportDataContentView.html">ExportDataContentView</a>
+              </li>
             </ul>
           </li>
           <li class="nav-group-name">
@@ -155,12 +155,6 @@
               </li>
               <li class="nav-group-task">
                 <a href="Classes/DialogMessageViewController.html">DialogMessageViewController</a>
-              </li>
-              <li class="nav-group-task">
-                <a href="Classes/DialogTitleViewController.html">DialogTitleViewController</a>
-              </li>
-              <li class="nav-group-task">
-                <a href="Classes/DialogTitleValueViewController.html">DialogTitleValueViewController</a>
               </li>
             </ul>
           </li>
@@ -231,6 +225,15 @@
               <li class="nav-group-task">
                 <a href="Protocols/Database.html">Database</a>
               </li>
+              <li class="nav-group-task">
+                <a href="Database.html#/s:5Money13DatabaseQueryC">DatabaseQuery</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Enums/DatabaseError.html">DatabaseError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Database.html#/s:5Money24NSFetchedValueControllerC">NSFetchedValueController</a>
+              </li>
             </ul>
           </li>
           <li class="nav-group-name">
@@ -280,13 +283,10 @@
             <a href="Other%20Classes.html">Other Classes</a>
             <ul class="nav-group-tasks">
               <li class="nav-group-task">
-                <a href="Other%20Classes.html#/s:5Money13DatabaseQueryC">DatabaseQuery</a>
+                <a href="Other%20Classes.html#/s:5Money10CSVEncoderC">CSVEncoder</a>
               </li>
               <li class="nav-group-task">
-                <a href="Other%20Classes.html#/s:5Money24NSFetchedValueControllerC">NSFetchedValueController</a>
-              </li>
-              <li class="nav-group-task">
-                <a href="Other%20Classes.html#/c:@M@Money@objc(cs)TimelineCell">TimelineCell</a>
+                <a href="Classes/TransactionsDataExporter.html">TransactionsDataExporter</a>
               </li>
             </ul>
           </li>
@@ -297,7 +297,10 @@
                 <a href="Enums/BiometricAuthenticationType.html">BiometricAuthenticationType</a>
               </li>
               <li class="nav-group-task">
-                <a href="Enums/DatabaseError.html">DatabaseError</a>
+                <a href="Enums/DataExporterError.html">DataExporterError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Enums/FileFormat.html">FileFormat</a>
               </li>
               <li class="nav-group-task">
                 <a href="Enums/ScreenLockTimeInterval.html">ScreenLockTimeInterval</a>
@@ -366,6 +369,9 @@
             <a href="Other%20Protocols.html">Other Protocols</a>
             <ul class="nav-group-tasks">
               <li class="nav-group-task">
+                <a href="Protocols/DataExporter.html">DataExporter</a>
+              </li>
+              <li class="nav-group-task">
                 <a href="Protocols/ViewControllerPresentWalkthrough.html">ViewControllerPresentWalkthrough</a>
               </li>
             </ul>
@@ -373,6 +379,9 @@
           <li class="nav-group-name">
             <a href="Other%20Structs.html">Other Structures</a>
             <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="Structs/CSV.html">CSV</a>
+              </li>
               <li class="nav-group-task">
                 <a href="Other%20Structs.html#/s:5Money12DialogActionV">DialogAction</a>
               </li>
@@ -396,9 +405,9 @@
                 <li class="item">
                   <div>
                     <code>
-                    <a name="/s:5Money13DatabaseQueryC"></a>
-                    <a name="//apple_ref/swift/Class/DatabaseQuery" class="dashAnchor"></a>
-                    <a class="token" href="#/s:5Money13DatabaseQueryC">DatabaseQuery</a>
+                    <a name="/s:5Money10CSVEncoderC"></a>
+                    <a name="//apple_ref/swift/Class/CSVEncoder" class="dashAnchor"></a>
+                    <a class="token" href="#/s:5Money10CSVEncoderC">CSVEncoder</a>
                     </code>
                   </div>
                   <div class="height-container">
@@ -406,14 +415,14 @@
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>This class exists because of the error: &lsquo;Query&rsquo; can only be used as a generic constraint because it has Self or associated type requirements.</p>
+                        <p>A Comma-Separated Values encoder.</p>
 
                       </div>
                       <div class="declaration">
                         <h4>Declaration</h4>
                         <div class="language">
                           <p class="aside-title">Swift</p>
-                          <pre class="highlight swift"><code><span class="kd">class</span> <span class="kt">DatabaseQuery</span><span class="o">&lt;</span><span class="kt">T</span><span class="o">&gt;</span> <span class="p">:</span> <span class="kt">Query</span> <span class="k">where</span> <span class="kt">T</span> <span class="p">:</span> <span class="kt">Model</span></code></pre>
+                          <pre class="highlight swift"><code><span class="kd">class</span> <span class="kt">CSVEncoder</span></code></pre>
 
                         </div>
                       </div>
@@ -423,9 +432,9 @@
                 <li class="item">
                   <div>
                     <code>
-                    <a name="/s:5Money24NSFetchedValueControllerC"></a>
-                    <a name="//apple_ref/swift/Class/NSFetchedValueController" class="dashAnchor"></a>
-                    <a class="token" href="#/s:5Money24NSFetchedValueControllerC">NSFetchedValueController</a>
+                    <a name="/s:5Money24TransactionsDataExporterC"></a>
+                    <a name="//apple_ref/swift/Class/TransactionsDataExporter" class="dashAnchor"></a>
+                    <a class="token" href="#/s:5Money24TransactionsDataExporterC">TransactionsDataExporter</a>
                     </code>
                   </div>
                   <div class="height-container">
@@ -433,42 +442,15 @@
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>Fetch an only value for statistic functions like <code>sum</code>, <code>avg</code>, <code>min</code>, <code>max</code>.
-Does not support both change tracking and fetch request’s with <code>NSDictionaryResultType</code>.</p>
+                        <p>Dedicated data exporter for Transactions.</p>
 
+                        <a href="Classes/TransactionsDataExporter.html" class="slightly-smaller">See more</a>
                       </div>
                       <div class="declaration">
                         <h4>Declaration</h4>
                         <div class="language">
                           <p class="aside-title">Swift</p>
-                          <pre class="highlight swift"><code><span class="kd">class</span> <span class="kt">NSFetchedValueController</span><span class="o">&lt;</span><span class="kt">T</span><span class="o">&gt;</span> <span class="p">:</span> <span class="kt">NSFetchedResultsController</span><span class="o">&lt;</span><span class="kt">NSDictionary</span><span class="o">&gt;</span></code></pre>
-
-                        </div>
-                      </div>
-                    </section>
-                  </div>
-                </li>
-                <li class="item">
-                  <div>
-                    <code>
-                    <a name="/c:@M@Money@objc(cs)TimelineCell"></a>
-                    <a name="//apple_ref/swift/Class/TimelineCell" class="dashAnchor"></a>
-                    <a class="token" href="#/c:@M@Money@objc(cs)TimelineCell">TimelineCell</a>
-                    </code>
-                  </div>
-                  <div class="height-container">
-                    <div class="pointer-container"></div>
-                    <section class="section">
-                      <div class="pointer"></div>
-                      <div class="abstract">
-                        <p>Transaction cell for the timeline view.</p>
-
-                      </div>
-                      <div class="declaration">
-                        <h4>Declaration</h4>
-                        <div class="language">
-                          <p class="aside-title">Swift</p>
-                          <pre class="highlight swift"><code><span class="kd">class</span> <span class="kt">TimelineCell</span> <span class="p">:</span> <span class="kt">UITableViewCell</span></code></pre>
+                          <pre class="highlight swift"><code><span class="kd">final</span> <span class="kd">class</span> <span class="kt">TransactionsDataExporter</span> <span class="p">:</span> <span class="kt"><a href="Protocols/DataExporter.html">DataExporter</a></span></code></pre>
 
                         </div>
                       </div>
@@ -480,11 +462,10 @@ Does not support both change tracking and fetch request’s with <code>NSDiction
           </section>
         </section>
         <section id="footer">
-          <p>© 2020 <a class="link" href="https://razybits.com" target="_blank" rel="external">Razybits</a>. All rights reserved.</p>
-          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.13.5</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+          <p>© 2022 <a class="link" href="https://razybits.com" target="_blank" rel="external noopener">Razybits</a>. All rights reserved.</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external noopener">jazzy ♪♫ v0.14.3</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external noopener">Realm</a> project.</p>
         </section>
       </article>
     </div>
   </body>
-</div>
 </html>

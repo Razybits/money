@@ -16,14 +16,14 @@
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/AppCoordinator.swift",
-      "line": 55,
+      "line": 56,
       "symbol": "AppCoordinator.deinit",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/AppCoordinator.swift",
-      "line": 58,
+      "line": 59,
       "symbol": "AppCoordinator.setupDependencies()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
@@ -31,69 +31,76 @@
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/AppCoordinator.swift",
       "line": 70,
+      "symbol": "AppCoordinator.setupAppearance()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/AppCoordinator.swift",
+      "line": 80,
       "symbol": "AppCoordinator.start(with:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/AppCoordinator.swift",
-      "line": 159,
+      "line": 169,
       "symbol": "AppCoordinator.applicationWillResignActive()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/AppCoordinator.swift",
-      "line": 166,
+      "line": 176,
       "symbol": "AppCoordinator.applicationDidBecomeActive()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/AppCoordinator.swift",
-      "line": 169,
+      "line": 179,
       "symbol": "AppCoordinator.applicationDidEnterBackground()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/AppCoordinator.swift",
-      "line": 187,
+      "line": 197,
       "symbol": "AppCoordinator.applicationWillEnterForeground()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/AppCoordinator.swift",
-      "line": 220,
+      "line": 230,
       "symbol": "AppCoordinator.applicationPerformAction(for:completionHandler:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/AppCoordinator.swift",
-      "line": 268,
+      "line": 278,
       "symbol": "AppCoordinator.passcodeAuthorizationAccepted()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/AppCoordinator.swift",
-      "line": 272,
+      "line": 282,
       "symbol": "AppCoordinator.passcodeAuthorizationDenied(error:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/AppCoordinator.swift",
-      "line": 276,
+      "line": 286,
       "symbol": "AppCoordinator.passcodeAuthorizationForgotten()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/AppCoordinator.swift",
-      "line": 286,
+      "line": 296,
       "symbol": "UINavigationController.prepareForQuickAction(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
@@ -131,6 +138,20 @@
       "line": 21,
       "symbol": "AppLogger.setup()",
       "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/AppLogger.swift",
+      "line": 31,
+      "symbol": "WSLoggable.log(_:level:customAttributes:className:fileName:line:function:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/AppLogger.swift",
+      "line": 35,
+      "symbol": "WSLoggable.log(_:level:customAttributes:className:fileName:line:function:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
       "warning": "undocumented"
     },
     {
@@ -611,42 +632,42 @@
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/CoreData/CKCategory.swift",
-      "line": 41,
+      "line": 51,
       "symbol": "CKCategory.fetchRequest()",
       "symbol_kind": "source.lang.swift.decl.function.method.class",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/CoreData/CKCategory.swift",
-      "line": 73,
+      "line": 83,
       "symbol": "CKCategory.status",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/CoreData/CKCategory.swift",
-      "line": 82,
+      "line": 92,
       "symbol": "CKCategory.operation",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/CoreData/CKCategory.swift",
-      "line": 91,
+      "line": 101,
       "symbol": "CKCategory.colorRGBComponents",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/CoreData/CKCategory.swift",
-      "line": 102,
+      "line": 112,
       "symbol": "CKCategory.primaryKeyValue()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/CoreData/CKCategory.swift",
-      "line": 106,
+      "line": 116,
       "symbol": "CKCategory.awakeFromInsert()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
@@ -1549,140 +1570,140 @@
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 198,
+      "line": 197,
       "symbol": "TransactionCreationViewController.viewDidAppear(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 203,
+      "line": 202,
       "symbol": "TransactionCreationViewController.viewWillAppear(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 207,
+      "line": 206,
       "symbol": "TransactionCreationViewController.viewDidLayoutSubviews()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 212,
+      "line": 211,
       "symbol": "TransactionCreationViewController.useDefaultColors()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 278,
+      "line": 277,
       "symbol": "TransactionCreationViewController.setupOptionsPages()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 380,
+      "line": 379,
       "symbol": "TransactionCreationViewController.didTextChangedName(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 393,
+      "line": 392,
       "symbol": "TransactionCreationViewController.didTouchAcceptButton(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 397,
+      "line": 396,
       "symbol": "TransactionCreationViewController.didTouchCancelButton(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 401,
+      "line": 400,
       "symbol": "TransactionCreationViewController.didDateValueChanged(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 423,
+      "line": 422,
       "symbol": "TransactionCreationViewController.handleContainerTapGesture(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 434,
+      "line": 433,
       "symbol": "TransactionCreationViewController.textFieldShouldReturn(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 449,
+      "line": 448,
       "symbol": "TransactionCreationViewController.showExpenseOption(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 479,
+      "line": 478,
       "symbol": "TransactionCreationViewController.didExpenseOptionChanged(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 485,
+      "line": 484,
       "symbol": "TransactionCreationViewController.scrollViewDidEndDecelerating(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 507,
+      "line": 506,
       "symbol": "TransactionCreationViewController.pickerView(_:didSelectRow:inComponent:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 512,
+      "line": 511,
       "symbol": "TransactionCreationViewController.pickerView(_:attributedTitleForRow:forComponent:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 521,
+      "line": 520,
       "symbol": "TransactionCreationViewController.pickerView(_:rowHeightForComponent:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 525,
+      "line": 524,
       "symbol": "TransactionCreationViewController.pickerView(_:titleForRow:forComponent:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 531,
+      "line": 530,
       "symbol": "TransactionCreationViewController.numberOfComponents(in:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Create Transaction/TransactionCreationViewController.swift",
-      "line": 535,
+      "line": 534,
       "symbol": "TransactionCreationViewController.pickerView(_:numberOfRowsInComponent:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
@@ -1690,48 +1711,55 @@
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/ArticleContentView.swift",
       "line": 18,
+      "symbol": "ArticleContentView.FocusableField",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/ArticleContentView.swift",
+      "line": 40,
       "symbol": "ArticleContentView.id",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/ArticleContentView.swift",
-      "line": 20,
+      "line": 42,
       "symbol": "ArticleContentView.name",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/ArticleContentView.swift",
-      "line": 21,
+      "line": 43,
       "symbol": "ArticleContentView.amount",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/ArticleContentView.swift",
-      "line": 22,
+      "line": 44,
       "symbol": "ArticleContentView.quantity",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/ArticleContentView.swift",
-      "line": 24,
+      "line": 47,
       "symbol": "ArticleContentView.completionObject",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/ArticleContentView.swift",
-      "line": 26,
+      "line": 49,
       "symbol": "ArticleContentView.createCompletionObject()",
       "symbol_kind": "source.lang.swift.decl.function.method.static",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/ArticleContentView.swift",
-      "line": 101,
+      "line": 151,
       "symbol": "TransactionContentView_Previews",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
@@ -1759,28 +1787,28 @@
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/DateContentView.swift",
-      "line": 67,
+      "line": 66,
       "symbol": "DateContentView_Previews",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/DateFilterContentView.swift",
-      "line": 23,
+      "line": 24,
       "symbol": "DateFilterContentView.completionObject",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/DateFilterContentView.swift",
-      "line": 25,
+      "line": 26,
       "symbol": "DateFilterContentView.createCompletionObject()",
       "symbol_kind": "source.lang.swift.decl.function.method.static",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/DateFilterContentView.swift",
-      "line": 113,
+      "line": 115,
       "symbol": "DateFilterContentView_Previews",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
@@ -1796,62 +1824,6 @@
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/DialogMessageViewController.swift",
       "line": 57,
       "symbol": "DialogMessageViewController.setupUI()",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/DialogTitleValueViewController.swift",
-      "line": 19,
-      "symbol": "DialogTitleValueViewController.TitleValue",
-      "symbol_kind": "source.lang.swift.decl.typealias",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/DialogTitleValueViewController.swift",
-      "line": 20,
-      "symbol": "DialogTitleValueViewController.CompletionHandler",
-      "symbol_kind": "source.lang.swift.decl.typealias",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/DialogTitleValueViewController.swift",
-      "line": 81,
-      "symbol": "DialogTitleValueViewController.setupUI()",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/DialogTitleValueViewController.swift",
-      "line": 147,
-      "symbol": "DialogTitleValueViewController.restart()",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/DialogTitleValueViewController.swift",
-      "line": 157,
-      "symbol": "DialogTitleValueViewController.textFieldShouldReturn(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/DialogTitleViewController.swift",
-      "line": 19,
-      "symbol": "DialogTitleViewController.CompletionHandler",
-      "symbol_kind": "source.lang.swift.decl.typealias",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/DialogTitleViewController.swift",
-      "line": 76,
-      "symbol": "DialogTitleViewController.setupUI()",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/DialogTitleViewController.swift",
-      "line": 127,
-      "symbol": "DialogTitleViewController.textFieldShouldReturn(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
@@ -1976,7 +1948,7 @@
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/NoteContentView.swift",
-      "line": 72,
+      "line": 97,
       "symbol": "NoteContentView_Previews",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
@@ -2004,7 +1976,7 @@
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Dialogs/TagContentView.swift",
-      "line": 77,
+      "line": 99,
       "symbol": "TagContentView_Previews",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
@@ -2018,51 +1990,79 @@
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Generated/Assets.swift",
-      "line": 14,
+      "line": 17,
       "symbol": "AssetColorTypeAlias",
       "symbol_kind": "source.lang.swift.decl.typealias",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Generated/Assets.swift",
-      "line": 16,
+      "line": 19,
       "symbol": "AssetImageTypeAlias",
       "symbol_kind": "source.lang.swift.decl.typealias",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Generated/Assets.swift",
-      "line": 23,
+      "line": 26,
       "symbol": "Asset",
       "symbol_kind": "source.lang.swift.decl.enum",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Generated/Assets.swift",
-      "line": 95,
+      "line": 97,
       "symbol": "ColorAsset",
       "symbol_kind": "source.lang.swift.decl.class",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Generated/Assets.swift",
-      "line": 117,
+      "line": 137,
       "symbol": "ColorAsset.Color",
       "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Generated/Assets.swift",
-      "line": 131,
+      "line": 154,
+      "symbol": "SwiftUI.Color.init(asset:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Generated/Assets.swift",
+      "line": 161,
       "symbol": "ImageAsset",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Generated/Assets.swift",
-      "line": 157,
+      "line": 206,
       "symbol": "ImageAsset.Image",
       "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Generated/Assets.swift",
+      "line": 225,
+      "symbol": "SwiftUI.Image.init(asset:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Generated/Assets.swift",
+      "line": 230,
+      "symbol": "SwiftUI.Image.init(asset:label:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Generated/Assets.swift",
+      "line": 235,
+      "symbol": "SwiftUI.Image.init(decorative:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
@@ -2151,77 +2151,77 @@
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/MainViewController.swift",
-      "line": 95,
+      "line": 98,
       "symbol": "MainViewController.preferredStatusBarStyle",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/MainViewController.swift",
-      "line": 104,
+      "line": 107,
       "symbol": "MainViewController.registerObservers()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/MainViewController.swift",
-      "line": 112,
+      "line": 115,
       "symbol": "MainViewController.setupUI()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/MainViewController.swift",
-      "line": 155,
+      "line": 158,
       "symbol": "MainViewController.dateFilterSegmentedControlValueChanged(segmentedControl:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/MainViewController.swift",
-      "line": 182,
+      "line": 185,
       "symbol": "MainViewController.loadContent()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/MainViewController.swift",
-      "line": 201,
+      "line": 204,
       "symbol": "MainViewController.didTouchSettings(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/MainViewController.swift",
-      "line": 207,
+      "line": 210,
       "symbol": "MainViewController.didTouchStatistics(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/MainViewController.swift",
-      "line": 213,
+      "line": 216,
       "symbol": "MainViewController.didTouchSearch(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/MainViewController.swift",
-      "line": 225,
+      "line": 228,
       "symbol": "MainViewController.setupTimeline()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/MainViewController.swift",
-      "line": 257,
+      "line": 260,
       "symbol": "MainViewController.prepareForQuickAction(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/MainViewController.swift",
-      "line": 269,
+      "line": 272,
       "symbol": "MainViewController.controllerDidChangeContent(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
@@ -2371,20 +2371,6 @@
       "line": 44,
       "symbol": "DateFilter.custom",
       "symbol_kind": "source.lang.swift.decl.var.static",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Models/DateFilter.swift",
-      "line": 118,
-      "symbol": "DateFilter.generateDates(with:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Models/DateFilter.swift",
-      "line": 153,
-      "symbol": "DateFilter.generatePredicate(with:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
@@ -2550,7 +2536,7 @@
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Onboarding/OnboardCloudDataView.swift",
-      "line": 291,
+      "line": 288,
       "symbol": "OnboardCloudDataView_Previews",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
@@ -3389,6 +3375,146 @@
       "warning": "undocumented"
     },
     {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/CSV.swift",
+      "line": 15,
+      "symbol": "CSV.lines",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/CSV.swift",
+      "line": 17,
+      "symbol": "CSV.init(lines:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/CSVEncoder.swift",
+      "line": 16,
+      "symbol": "CSVEncoder.MapHeader",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/CSVEncoder.swift",
+      "line": 21,
+      "symbol": "CSVEncoder.MapField",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/CSVEncoder.swift",
+      "line": 30,
+      "symbol": "CSVEncoder.MapError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/CSVEncoder.swift",
+      "line": 34,
+      "symbol": "CSVEncoder.mapper",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/CSVEncoder.swift",
+      "line": 35,
+      "symbol": "CSVEncoder.separator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/CSVEncoder.swift",
+      "line": 37,
+      "symbol": "CSVEncoder.init(mapper:separator:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/CSVEncoder.swift",
+      "line": 42,
+      "symbol": "CSVEncoder.generate(with:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/DataExporterError.swift",
+      "line": 15,
+      "symbol": "DataExporterError.invalidDateRange",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/DataExporterError.swift",
+      "line": 16,
+      "symbol": "DataExporterError.missingDateRange",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/DataExporterError.swift",
+      "line": 17,
+      "symbol": "DataExporterError.invalidFileFormat",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/DataExporterError.swift",
+      "line": 18,
+      "symbol": "DataExporterError.missingFileFormat",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/DataExporterError.swift",
+      "line": 19,
+      "symbol": "DataExporterError.emptyData",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/DataExporterError.swift",
+      "line": 20,
+      "symbol": "DataExporterError.dataVolumeIsTooHigh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/DataExporterError.swift",
+      "line": 21,
+      "symbol": "DataExporterError.missingOutputFile",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/ExportDataContentView.swift",
+      "line": 31,
+      "symbol": "ExportDataContentView.completionObject",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/ExportDataContentView.swift",
+      "line": 33,
+      "symbol": "ExportDataContentView.createCompletionObject()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/ExportDataContentView.swift",
+      "line": 125,
+      "symbol": "ExportDataContentView_Previews",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/Export/TransactionsDataExporter.swift",
+      "line": 18,
+      "symbol": "TransactionsDataExporter.init(store:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/SettingsListViewController.swift",
       "line": 11,
       "symbol": "SettingsListViewController",
@@ -3425,105 +3551,105 @@
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/SettingsViewController.swift",
-      "line": 57,
+      "line": 59,
       "symbol": "SettingsViewController.init()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/SettingsViewController.swift",
-      "line": 62,
+      "line": 64,
       "symbol": "SettingsViewController.init(coder:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/SettingsViewController.swift",
-      "line": 66,
+      "line": 68,
       "symbol": "SettingsViewController.viewDidLoad()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/SettingsViewController.swift",
-      "line": 85,
+      "line": 87,
       "symbol": "SettingsViewController.viewDidAppear(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/SettingsViewController.swift",
-      "line": 90,
+      "line": 92,
       "symbol": "SettingsViewController.viewDidDisappear(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/SettingsViewController.swift",
-      "line": 95,
+      "line": 97,
       "symbol": "SettingsViewController.didTouchDismiss()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/SettingsViewController.swift",
-      "line": 99,
+      "line": 101,
       "symbol": "SettingsViewController.uiContentSizeCategoryChanged()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/SettingsViewController.swift",
-      "line": 110,
+      "line": 112,
       "symbol": "SettingsViewController.numberOfSections(in:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/SettingsViewController.swift",
-      "line": 114,
+      "line": 116,
       "symbol": "SettingsViewController.tableView(_:numberOfRowsInSection:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/SettingsViewController.swift",
-      "line": 129,
+      "line": 131,
       "symbol": "SettingsViewController.tableView(_:cellForRowAt:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/SettingsViewController.swift",
-      "line": 182,
+      "line": 188,
       "symbol": "SettingsViewController.tableView(_:estimatedHeightForHeaderInSection:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/SettingsViewController.swift",
-      "line": 186,
+      "line": 192,
       "symbol": "SettingsViewController.tableView(_:viewForHeaderInSection:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/SettingsViewController.swift",
-      "line": 207,
+      "line": 213,
       "symbol": "SettingsViewController.tableView(_:didSelectRowAt:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/SettingsViewController.swift",
-      "line": 269,
+      "line": 290,
       "symbol": "SettingsViewController.mailComposeController(_:didFinishWith:error:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Settings/SettingsViewController.swift",
-      "line": 289,
+      "line": 310,
       "symbol": "WeekDay.description",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
@@ -3812,6 +3938,13 @@
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/SwiftUI/ActivityIndicatorRepresentable.swift",
       "line": 11,
       "symbol": "ActivityIndicator",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/SwiftUI/CheckmarkModifier.swift",
+      "line": 11,
+      "symbol": "CheckmarkModifier",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
@@ -4349,91 +4482,91 @@
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Transactions/TransactionContentView.swift",
-      "line": 203,
+      "line": 207,
       "symbol": "TransactionContentView.showAllExpensesFromThisMerchant()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Transactions/TransactionContentView.swift",
-      "line": 217,
+      "line": 221,
       "symbol": "TransactionContentView.showAllExpensesFromSameCategory()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Transactions/TransactionContentView.swift",
-      "line": 231,
+      "line": 235,
       "symbol": "TransactionContentView.showArticlePopup()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Transactions/TransactionContentView.swift",
-      "line": 235,
+      "line": 239,
       "symbol": "TransactionContentView.showArticlePopup(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Transactions/TransactionContentView.swift",
-      "line": 266,
+      "line": 270,
       "symbol": "TransactionContentView.showTagPopup()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Transactions/TransactionContentView.swift",
-      "line": 279,
+      "line": 283,
       "symbol": "TransactionContentView.showNotePopup()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Transactions/TransactionContentView.swift",
-      "line": 296,
+      "line": 303,
       "symbol": "TransactionContentView.showDatePopup()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Transactions/TransactionContentView.swift",
-      "line": 311,
+      "line": 318,
       "symbol": "TransactionContentView.removeTags(at:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Transactions/TransactionContentView.swift",
-      "line": 315,
+      "line": 322,
       "symbol": "TransactionContentView.removeArticles(at:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Transactions/TransactionContentView.swift",
-      "line": 321,
+      "line": 328,
       "symbol": "FormHeader",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Transactions/TransactionContentView.swift",
-      "line": 352,
+      "line": 359,
       "symbol": "CaptionHeader",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Transactions/TransactionContentView.swift",
-      "line": 361,
+      "line": 368,
       "symbol": "FormFooter",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Transactions/TransactionContentView.swift",
-      "line": 367,
+      "line": 374,
       "symbol": "ExpenseContentView_Previews",
       "symbol_kind": "source.lang.swift.decl.struct",
       "warning": "undocumented"
@@ -4573,7 +4706,7 @@
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/User/UserSettings.swift",
-      "line": 11,
+      "line": 12,
       "symbol": "UserSettings",
       "symbol_kind": "source.lang.swift.decl.extension",
       "warning": "undocumented"
@@ -4594,7 +4727,7 @@
     },
     {
       "file": "/Users/ricardopereira/Repositories/razybits.money-app/Money/Utilities/SwiftDate+Extensions.swift",
-      "line": 19,
+      "line": 20,
       "symbol": "WeekDay.localizedName",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
@@ -5545,10 +5678,24 @@
       "warning": "undocumented"
     },
     {
-      "file": "/Users/ricardopereira/Repositories/razybits.money-app/Pods/WSLogger/Source/WSLoggable.swift",
-      "line": 29,
-      "symbol": "WSLoggable",
-      "symbol_kind": "source.lang.swift.decl.extension",
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/MoneyTests/DatabaseUtilities.swift",
+      "line": 11,
+      "symbol": "populateDatabase(context:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/MoneyTests/DatabaseUtilities.swift",
+      "line": 62,
+      "symbol": "populateDatabase(context:numberOfTransactions:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ricardopereira/Repositories/razybits.money-app/MoneyTests/DatabaseUtilities.swift",
+      "line": 109,
+      "symbol": "populateDatabaseForUITests(context:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
       "warning": "undocumented"
     }
   ],
